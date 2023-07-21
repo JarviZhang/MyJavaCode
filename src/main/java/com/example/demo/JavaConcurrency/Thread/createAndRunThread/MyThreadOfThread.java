@@ -1,4 +1,4 @@
-package com.example.demo.JavaConcurrency.createAndRunThread;
+package com.example.demo.JavaConcurrency.Thread.createAndRunThread;
 
 import lombok.extern.slf4j.Slf4j;
 import org.slf4j.Logger;
